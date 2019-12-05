@@ -42,13 +42,17 @@ Ouput example:
 
 3) ### What are the differences between? ###
 
-1 - Encontrar la secuencia más larga de números consecutivos en 2 arrays de entrada
+1 - Find the longest sequence of consecutive numbers from 2 input arrays
 
-Ejemplo: Input: [1, 2, 5, 3, 7, 8, 9] y [6, 8, 9, 3, 4, 5] Output: [3, 4, 5] o [7, 8, 9]
+Example: 
+Input: [1, 2, 5, 3, 7, 8, 9] y [6, 8, 9, 3, 4, 5]
+Output: [3, 4, 5] o [7, 8, 9]
 
-2 - Filtrar del array los elementos repetidos.
+2 - Filter duplicate elements from the array.
 
-Ejemplo: Input: [1, 3, 2, 3, 4, 5, 6, h, s, c, h, 3, 6] output: [1, 3, 2, 4, 5 ,6, h, s, c]
+Example:
+Input: [1, 3, 2, 3, 4, 5, 6, h, s, c, h, 3, 6]
+Output: [1, 3, 2, 4, 5 ,6, h, s, c]
 
 4) ### Create layout ###
 
