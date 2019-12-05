@@ -40,7 +40,7 @@ Ouput example:
 | 2019 |  03   |   1         | $900  |
 
 
-3) ### resolve efficiently ###
+3) ### Resolve efficiently ###
 
 1 - Find the longest sequence of consecutive numbers from 2 input arrays
 
