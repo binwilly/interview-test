@@ -6,7 +6,7 @@
 * Set database configuration in .env
 * Run localhost:3000/sync (script to create table with one user)
 
-### NOTE: Fork this project and send me your github link ###
+### NOTE: Download this project and send me your github link (Do not fork) ###
 
 1) ### Create user endpoint ###
 
@@ -40,7 +40,7 @@ Ouput example:
 | 2019 |  03   |   1         | $900  |
 
 
-3) ### What are the differences between? ###
+3) ### resolve efficiently ###
 
 1 - Find the longest sequence of consecutive numbers from 2 input arrays
 
